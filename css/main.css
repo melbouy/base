@@ -1,0 +1,31 @@
+html, body, section {
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin: 0; }
+  html .container, body .container, section .container {
+    position: relitive;
+    width: 95%;
+    margin: 0 2.5%; }
+    html .container [class*="_"], body .container [class*="_"], section .container [class*="_"] {
+      padding: 15px; }
+    html .container ._1, body .container ._1, section .container ._1 {
+      width: 10%; }
+    html .container ._2, body .container ._2, section .container ._2 {
+      width: 20%; }
+    html .container ._3, body .container ._3, section .container ._3 {
+      width: 30%; }
+    html .container ._4, body .container ._4, section .container ._4 {
+      width: 40%; }
+    html .container ._5, body .container ._5, section .container ._5 {
+      width: 50%; }
+    html .container ._6, body .container ._6, section .container ._6 {
+      width: 60%; }
+    html .container ._7, body .container ._7, section .container ._7 {
+      width: 70%; }
+    html .container ._8, body .container ._8, section .container ._8 {
+      width: 80%; }
+    html .container ._9, body .container ._9, section .container ._9 {
+      width: 90%; }
+    html .container ._10, body .container ._10, section .container ._10 {
+      width: 100%; }
