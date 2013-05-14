@@ -1,0 +1,4 @@
+COFFEE COMPILE
+coffee --watch --compile --output  js/loc/ coffee/
+SASS COMPILE
+sass --watch sass:css
